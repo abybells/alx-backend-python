@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Task 2's module returns floor.
+'''Task 2 module returns floor.
 '''
 
 
