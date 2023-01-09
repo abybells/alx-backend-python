@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Task 3's module.
+'''Task wait_n module.
 '''
 import asyncio
 
